@@ -60,6 +60,11 @@ Clean architecture using SOLID principles and MVVM
 
 ### MVVM - Seperate view with business logic
 
+<img width="980" alt="Screenshot 2023-10-24 at 12 46 34 pm" src="https://github.com/nirvikBasnet/android-boilerplate/assets/46699486/28c5bdfd-9ca5-4bda-9c40-2a187a8c5b38">
+
+
+
+
 
  
 
