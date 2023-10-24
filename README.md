@@ -39,3 +39,17 @@ Clean architecture using SOLID principles and MVVM
     b) Most volatile layer, likely to change
     c) Interacts with interfaces to retrive data
     d) UI, Frameworks, devices etc
+
+## SOLID principles
+
+1) Single responsibility - One class should have one job, one reason to change
+
+2) Open-closed - Open for extension, closed for modification, abstract away stable functionality (put volatile func in extention classes)
+
+3) Liskov substitution - Low level classes can be substituted without affectiong higher levels, achieve using abstract classes and interfaces
+
+4) Interface segregation - Use interface to advertise functionality, many specific interfaces are better than one generic interface, an interface only exposes the methods that the dependent class needs not more
+
+5) Dependency inversion - Concrete classes depends on abstract classes not the other way around, volatile functionality depends stable functionality, framework specific functionality depends on business logic
+
+
