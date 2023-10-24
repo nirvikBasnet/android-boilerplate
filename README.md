@@ -1,5 +1,4 @@
-# android-boilerplate
-Clean architecture using SOLID principles and MVVM
+# Clean architecture using SOLID principles and MVVM
 
 ## Clean Architecture & its Pros
 1) Organise a project to achieve maintainability and scalability
