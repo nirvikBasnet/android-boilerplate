@@ -17,7 +17,7 @@ Clean architecture using SOLID principles and MVVM
    
 <img width="980" alt="Screenshot 2023-10-24 at 12 09 00 pm" src="https://github.com/nirvikBasnet/android-boilerplate/assets/46699486/0a8e7209-6319-490f-958c-980c26a3f4f4">
 
-##Clean Architecture components
+### Clean Architecture components
 
 1) Domain Objects
     a) Foundational business logic
