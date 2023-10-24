@@ -52,4 +52,10 @@ Clean architecture using SOLID principles and MVVM
 
 5) Dependency inversion - Concrete classes depends on abstract classes not the other way around, volatile functionality depends stable functionality, framework specific functionality depends on business logic
 
+## Project Structure
+<img width="980" alt="Screenshot 2023-10-24 at 12 31 49 pm" src="https://github.com/nirvikBasnet/android-boilerplate/assets/46699486/97b0b0b9-6971-42c6-a3fe-1d2270380a32">
+
+### Framework - Retrofit, ROOM, network communication etc.
+### MVVM - Seperate view with business logic
+
 
